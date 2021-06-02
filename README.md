@@ -5,7 +5,7 @@ Simple CLI tool made using python to list out all the upcoming competitive codin
 Currently available platforms are :-
 + Codechef
 + Codeforces
-+ AtCoder
++ AtCoder  
 More platforms will be added in future.
 
 ## Flags
